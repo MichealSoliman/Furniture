@@ -16,6 +16,7 @@ import ContactUs from "./components/Subscribe/ContactUs";
 import Gallery from "./components/Gallery";
 import FloatingButtons from "./components/FloatingButtons";
 import ScrollToTopButton from "./components/ScrollToTopButton";
+import Services from "./components/Services";
 
 const App = () => {
   const [orderPopup, setOrderPopup] = React.useState(false);
@@ -46,6 +47,7 @@ const App = () => {
       <Gallery />
       <Products />
       <Features />
+      <Services />
       <Testimonials />
       <FloatingButtons />
       <ScrollToTopButton />

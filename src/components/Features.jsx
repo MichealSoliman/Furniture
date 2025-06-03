@@ -55,7 +55,7 @@ const features = [
 
 const FeaturesSection = () => {
   return (
-    <section className="container mx-auto py-16 px-6" dir="rtl">
+    <section className="container mx-auto py-16 px-6" dir="rtl"id="features">
       <div className="text-center mb-12 max-w-[700px] mx-auto">
         <p data-aos="fade-up" className="text-sm text-primary">
           مميزاتنا في بيع الأثاث بجدة

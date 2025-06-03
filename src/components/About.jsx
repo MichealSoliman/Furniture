@@ -36,7 +36,7 @@ const stats = [
 
 const About = () => {
   return (
-    <section className="container mx-auto py-16 px-6">
+    <section className="container mx-auto py-16 px-6" id="about" >
       <div className="flex flex-col md:flex-row items-center gap-10 relative">
         {/* Left Side - Single Image with natural size */}
         <div className="md:w-1/2 flex justify-center">

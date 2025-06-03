@@ -179,7 +179,7 @@ const Gallery = () => {
   const [activeTab, setActiveTab] = useState("all");
 
   return (
-    <section className="py-16 px-6 text-center" dir="rtl">
+    <section className="py-16 px-6 text-center" dir="rtl" id="gallery">
       <h2 className="text-3xl font-bold mb-10">معرض صورنا</h2>
 
       {/* Tabs */}

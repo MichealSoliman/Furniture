@@ -3,7 +3,7 @@ import { FaPhoneAlt, FaWhatsapp } from "react-icons/fa";
 
 const ContactUs = () => {
   return (
-    <section
+    <section id="contact"
       data-aos="zoom-in"
       className="mb-20 bg-gray-100 dark:bg-gray-800 text-black dark:text-white"
       style={{

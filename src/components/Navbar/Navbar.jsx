@@ -19,17 +19,22 @@ const Menu = [
   {
     id: 3,
     name: "عننا",
-    link: "/#",
+    link: "/#about",
   },
   {
     id: 3,
     name: "اتصل بنا",
-    link: "/#",
+    link: "/#contact",
   },
   {
     id: 3,
     name: "مميزاتنا",
-    link: "/#",
+    link: "/#features",
+  },
+  {
+    id: 4,
+    name: "المعرض",
+    link: "/#gallery",
   },
 ];
 
