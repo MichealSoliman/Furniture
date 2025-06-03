@@ -17,6 +17,9 @@ import Gallery from "./components/Gallery";
 import FloatingButtons from "./components/FloatingButtons";
 import ScrollToTopButton from "./components/ScrollToTopButton";
 import Services from "./components/Services";
+import { Fa0 } from "react-icons/fa6";
+import QuestionS from "./components/Questions";
+
 
 const App = () => {
   const [orderPopup, setOrderPopup] = React.useState(false);
@@ -49,6 +52,7 @@ const App = () => {
       <Features />
       <Services />
       <Testimonials />
+      <QuestionS />
       <FloatingButtons />
       <ScrollToTopButton />
       <Footer />
