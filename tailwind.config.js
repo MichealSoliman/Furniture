@@ -24,8 +24,8 @@ export default {
           to: { opacity: 1, transform: "translateY(0)" },
         },
       },
-         fontFamily: {
-        alexandria: ['"Alexandria"', 'sans-serif'],
+       fontFamily: {
+        alexandria: ['Alexandria', 'sans-serif'],
       },
       scrollBehavior: ['responsive'],
     },

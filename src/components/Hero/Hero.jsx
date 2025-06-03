@@ -60,7 +60,7 @@ const Hero = ({ handleOrderPopup }) => {
                     data-aos="zoom-out"
                     data-aos-duration="500"
                     data-aos-once="true"
-                    className="text-5xl sm:text-6xl lg:text-7xl font-bold"
+                    className="text-5xl sm:text-6xl lg:text-4xl font-bold "
                   >
                     {data.title}
                   </h1>
@@ -96,7 +96,7 @@ const Hero = ({ handleOrderPopup }) => {
                     <img
                       src={data.img}
                       alt=""
-                      className="w-[300px] h-[300px] sm:h-[450px] sm:w-[450px] sm:scale-105 rounded-xl lg:scale-120 object-contain mx-auto"
+                      className="w-[400px] h-[300px] sm:h-[450px] sm:w-[450px] sm:scale-105 rounded-xl lg:scale-120 object-contain mx-auto"
                     />
                   </div>
                 </div>
