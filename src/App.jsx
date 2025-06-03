@@ -19,6 +19,8 @@ import ScrollToTopButton from "./components/ScrollToTopButton";
 import Services from "./components/Services";
 import { Fa0 } from "react-icons/fa6";
 import QuestionS from "./components/Questions";
+import Selling from "./components/Selling";
+import CityMap from "./components/CityMap";
 
 
 const App = () => {
@@ -51,8 +53,10 @@ const App = () => {
       <Products />
       <Features />
       <Services />
+      <Selling />
       <Testimonials />
       <QuestionS />
+      <CityMap />
       <FloatingButtons />
       <ScrollToTopButton />
       <Footer />

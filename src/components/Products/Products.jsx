@@ -52,14 +52,14 @@ const ProductsData = [
 
 const Products = () => {
   return (
-    <div className="mt-14 mb-12" dir="rtl">
+    <div className="mt-14 mb-12" dir="rtl" id="products">
       <div className="container">
         {/* Header section */}
         <div className="text-center mb-10 max-w-[600px] mx-auto">
           <p data-aos="fade-up" className="text-sm text-primary">
              أفضل منتجات الأثاث مبيعاً لك
           </p>
-          <h1 data-aos="fade-up" className="text-3xl font-bold">
+          <h1 data-aos="fade-up" className="text-3xl font-bold py-3">
            منتجات
           </h1>
           <p data-aos="fade-up" className="text-xs text-gray-400">

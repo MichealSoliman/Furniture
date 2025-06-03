@@ -60,7 +60,7 @@ const FeaturesSection = () => {
         <p data-aos="fade-up" className="text-sm text-primary">
           مميزاتنا في بيع الأثاث بجدة
         </p>
-        <h1 data-aos="fade-up" className="text-4xl font-bold mb-4">
+        <h1 data-aos="fade-up" className="text-4xl font-bold mb-4 py-3">
           لماذا تختارنا؟
         </h1>
         <p data-aos="fade-up" className="text-gray-600 text-base leading-relaxed">

@@ -36,7 +36,7 @@ const QuestionS = () => {
     <section id="faq" className="py-24 px-4 sm:px-10 container mx-auto text-right" dir="rtl">
       <div className="text-center mb-12 max-w-xl mx-auto">
         <p className="text-sm text-primary" data-aos="fade-up">الأسئلة الشائعة</p>
-        <h2 className="text-3xl font-bold mb-3" data-aos="fade-up">كل ما تريد معرفته عن بيع الأثاث في جدة</h2>
+        <h2 className="text-3xl font-bold mb-3 py-3" data-aos="fade-up">كل ما تريد معرفته عن بيع الأثاث في جدة</h2>
         <p className="text-xs text-gray-500 leading-6" data-aos="fade-up">
           جمعنا لك أهم الاستفسارات اللي بتتكرر من عملائنا لمساعدتك في اتخاذ القرار المناسب قبل الشراء.
         </p>

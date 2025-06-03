@@ -75,7 +75,7 @@ const Testimonials = () => {
           <p data-aos="fade-up" className="text-sm text-primary">
             ماذا يقول عملاؤنا عن أثاثنا
           </p>
-          <h1 data-aos="fade-up" className="text-3xl font-bold">
+          <h1 data-aos="fade-up" className="text-3xl font-bold py-4">
             آراء العملاء
           </h1>
           <p data-aos="fade-up" className="text-xs text-gray-400">
